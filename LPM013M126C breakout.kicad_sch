@@ -853,8 +853,8 @@
   (symbol (lib_id "Device:R") (at 147.32 121.92 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a82829f9-f222-478e-854b-5b867f24f0f5)
-    (property "Reference" "21Ω2" (id 0) (at 147.32 116.84 90))
-    (property "Value" "R2" (id 1) (at 147.32 119.38 90))
+    (property "Reference" "R2" (id 0) (at 147.32 116.84 90))
+    (property "Value" "21Ω2" (id 1) (at 147.32 119.38 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 147.32 123.698 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -868,8 +868,8 @@
   (symbol (lib_id "Device:R") (at 139.7 119.38 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c1a5108b-f59e-4cb8-bdc5-c79b8f1be77b)
-    (property "Reference" "21Ω1" (id 0) (at 139.7 114.3 90))
-    (property "Value" "R1" (id 1) (at 139.7 116.84 90))
+    (property "Reference" "R1" (id 0) (at 139.7 114.3 90))
+    (property "Value" "21Ω1" (id 1) (at 139.7 116.84 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 139.7 115.57 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -904,12 +904,6 @@
   )
 
   (symbol_instances
-    (path "/c1a5108b-f59e-4cb8-bdc5-c79b8f1be77b"
-      (reference "21Ω1") (unit 1) (value "R1") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/a82829f9-f222-478e-854b-5b867f24f0f5"
-      (reference "21Ω2") (unit 1) (value "R2") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
     (path "/f411c12f-97f0-4a08-8aff-048f6ed3e203"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -930,6 +924,12 @@
     )
     (path "/57c67acd-9fd5-4700-85de-32ac8b27bafd"
       (reference "JP1") (unit 1) (value "SolderJumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels")
+    )
+    (path "/c1a5108b-f59e-4cb8-bdc5-c79b8f1be77b"
+      (reference "R1") (unit 1) (value "21Ω1") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/a82829f9-f222-478e-854b-5b867f24f0f5"
+      (reference "R2") (unit 1) (value "21Ω2") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
   )
 )
