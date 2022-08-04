@@ -128,7 +128,7 @@
     (descr "KiCad Logo")
     (tags "Logo KiCad")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -5.08 90) (layer "F.SilkS") hide
+    (fp_text reference "LOGO1" (at 0 -5.08 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8e8ce170-fe83-4528-beef-3e61675da74d)
     )
@@ -2107,7 +2107,7 @@
     (descr "Open Source Hardware Symbol")
     (tags "Logo Symbol OSHW")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 0 90) (layer "F.SilkS") hide
+    (fp_text reference "LOGO2" (at 0 0 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 70530861-5197-4a15-91c5-8bee4629833d)
     )
@@ -3250,7 +3250,7 @@
   (footprint "Custom_Symbols:Testudor-Logo_5mm_SilkScreen" (layer "F.Cu")
     (tedit 0) (tstamp 8bc85b8d-7a20-4dbb-b6ea-18558cd13099)
     (at 168.91 107.95 90)
-    (fp_text reference "REF**" (at 0 -0.5 90 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "LOGO3" (at 0 -0.5 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dd4a1f23-5e94-41f1-a40f-bb848c2d2e5b)
     )
