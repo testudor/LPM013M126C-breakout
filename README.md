@@ -4,7 +4,7 @@
 
 This is a breakout board for the LPM013M126C MIP display from JDI. It makes it easy to use with various dev boards like Arduino, etc.
 
-> **Note** Logic levels and all supply voltages are 3.3 V for all pins. If your use case requires 5 V you'll have to use a level shifter as well as change the current limiting resistors for the backlight LEDs.
+> **Note** Logic levels as well as supply voltages are 3.3 V. If your use case requires 5 V you'll have to use a level shifter and change the current limiting resistors for the backlight LEDs.
 
 ## Wiring
 
