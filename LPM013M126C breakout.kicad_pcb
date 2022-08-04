@@ -3908,7 +3908,7 @@
   (gr_text "by testudor.me | REV 1.0" (at 170.18 105.41 90) (layer "F.SilkS") (tstamp 5cd5279a-ad2b-4913-8e6d-30a427750226)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "LPM013M1126C breakout" (at 167.64 105.41 90) (layer "F.SilkS") (tstamp 5ea77e59-35bd-4224-abda-1e278b820cb4)
+  (gr_text "LPM013M126C breakout" (at 167.64 105.41 90) (layer "F.SilkS") (tstamp 5ea77e59-35bd-4224-abda-1e278b820cb4)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (gr_text "VDDA" (at 153.67 81.28 45) (layer "F.SilkS") (tstamp 79e6dd32-a8db-4772-aa9b-27dea37add42)
