@@ -1,6 +1,6 @@
 # LPM013M126C breakout
 
-![kicad workflow](https://github.com/testudor/LPM013M1126C-breakout/actions/workflows/kibot_quick_start.yml/badge.svg)
+![kicad workflow](https://github.com/testudor/LPM013M126C-breakout/actions/workflows/kibot_build.yml/badge.svg)
 
 This is a breakout board for the LPM013M126C MIP display from JDI. It makes it easy to use with various dev boards like Arduino, etc.
 
