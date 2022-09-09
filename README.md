@@ -4,7 +4,7 @@
 
 This is a breakout board for the LPM013M126C MIP display from JDI. It makes it easy to use with various dev boards like Arduino, etc.
 
-![LPM013M126C breakout photo](./images/pic_001.jpg)
+![LPM013M126C breakout photo](./images/pic_002.jpg)
 
 ## Wiring
 
